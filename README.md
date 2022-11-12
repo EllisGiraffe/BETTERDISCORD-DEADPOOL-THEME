@@ -1,0 +1,2 @@
+# BETTERDISCORD-DEADPOOL-THEME
+Just a simple theme.
